@@ -6,7 +6,7 @@ Version 6.24 builds upon previous iterations with improved support for newer MTK
 
 
 
-## [👉👉 Get SP Flash Tool v6.2401 For Windows](https://freesoftcr.com/dl)
+## [👉👉 Get SP Flash Tool v6.2401 For Windows](https://freesoftcr.com/dl/)
 
 
 
